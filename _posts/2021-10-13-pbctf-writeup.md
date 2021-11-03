@@ -15,7 +15,7 @@ date:   2021-10-13 09:18:22 +0800
 |  Alkaloid Stream  |  CRYPTO  |  134 / 500  |  132  |
 
 ### Description
-I found a weird stream cipher scheme. Can you break this?
+> I found a weird stream cipher scheme. Can you break this?
 
 ### Attachments
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/alkaloid-stream/attachments).
@@ -32,7 +32,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/a
 |  Steroid Stream  |  CRYPTO  |  198 / 500  |  38  |
 
 ### Description
-I found a weird stream cipher scheme. Can you break this?
+> I found a weird stream cipher scheme. Can you break this?
 
 ### Attachments
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/steroid-stream/attachments).
@@ -49,9 +49,9 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/s
 |  GoodHash  |  CRYPTO  |  218 / 500  |  30  |
 
 ### Description
-I think I made a good hash function based on AES. Could you test this?
-
-nc good-hash.chal.perfect.blue 1337
+> I think I made a good hash function based on AES. Could you test this?
+> 
+> nc good-hash.chal.perfect.blue 1337
 
 ### Attachments
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/goodhash/attachments).
@@ -68,7 +68,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/g
 |  Yet Another PRNG  |  CRYPTO  |  292 / 500  |  14  |
 
 ### Description
-![](https://i.imgur.com/e1ffDqo.jpeg)
+> ![](https://i.imgur.com/e1ffDqo.jpeg)
 
 ### Attachments
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/yet-another-prng/attachments).
@@ -85,7 +85,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/y
 |  Yet Another RSA  |  CRYPTO  |  309 / 500  |  12  |
 
 ### Description
-![](https://i.imgur.com/Z7v8VWm.jpeg)
+> ![](https://i.imgur.com/Z7v8VWm.jpeg)
 
 ### Attachments
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2021/pbctf/yet-another-rsa/attachments).
