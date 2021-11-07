@@ -37,7 +37,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2021/asisctf
 > nc 168.119.108.148 13010
 
 ### Attachments
-No attachments are provided.
+None.
 
 ### Solutions
 See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2021/asisctf-quals/spiritual/solutions).
