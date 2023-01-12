@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2022 Google CTF writeup"
-date:   2020-07-05 21:12:40 +0800
+date:   2022-07-05 21:12:40 +0800
 ---
 
 2022 Google CTF writeup
