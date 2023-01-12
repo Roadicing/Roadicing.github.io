@@ -16,9 +16,13 @@ date:   2022-07-05 21:12:40 +0800
 
 ### Description
 > It is well known that any RSA encryption can be undone by just encrypting the ciphertext over and over again.
+> 
 > If the RSA modulus has been chosen badly then the number of encryptions necessary to undo an encryption is small.
+> 
 > However, if the modulus is well chosen then a cycle attack can take much longer. This property can be used for a timed release of a message.
+> 
 > We have confirmed that it takes a whopping 2^1025-3 encryptions to decrypt the flag.
+> 
 > Pack out your quantum computer and perform 2^1025-3 encryptions to solve this challenge. Good luck doing this in 48h.
 
 ### Attachments
@@ -37,6 +41,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2022/googlec
 
 ### Description
 > The server presents power traces of a secret firmware crypto operation. The goal is to recover the secret key.
+> 
 > Note, the flag is 'CTF{XXX}' where XXX is your recovered key.
 > 
 > https://electric-mayhem-cls-web.2022.ctfcompetition.com/
@@ -95,7 +100,9 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2022/googlec
 
 ### Description
 > Cryptanalysis has advanced a long way.
+> 
 > Can you break Enigma without a known plaintext?
+> 
 > The flag is written in all caps, with spaces and punctuation between words. It does not contain quotes.
 
 ### Attachments
