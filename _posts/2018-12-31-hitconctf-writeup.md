@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "2018 C3 CTF writeup"
+date:   2018-12-31 23:19:44 +0800
+---
+
+2018 C3 CTF writeup
+
+***
+
+## unofficial
+
+|  Name  |  Category  |  Points  |  Solves  |
+| :----: | :----: | :----: | :----: |
+|  unofficial  |  CRYPTO  |  134 / 500  |  35  |
+
+### Description
+> The NSA gave us these packets, they said it should be just enough to break this crypto.
+
+### Attachments
+See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2018/c3ctf/unofficial/attachments).
+
+### Solutions
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2018/c3ctf/unofficial/solutions).
+
+***
+
+## post quantum
+
+|  Name  |  Category  |  Points  |  Solves  |
+| :----: | :----: | :----: | :----: |
+|  post quantum  |  CRYPTO  |  134 / 500  |  35  |
+
+### Description
+> Somebody asked for more crypto challenges, so we made one in the middle of the night. Now you better solve it.
+
+### Attachments
+See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2018/c3ctf/post-quantum/attachments).
+
+### Solutions
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2018/c3ctf/post-quantum/solutions).
