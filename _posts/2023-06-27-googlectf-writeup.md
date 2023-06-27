@@ -21,7 +21,7 @@ date:   2023-06-27 20:05:03 +0800
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/least-common-genominator/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/least-common-genominator/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/least-common-genominator/solutions).
 
 ***
 
@@ -40,7 +40,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mytls/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/mytls/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mytls/solutions).
 
 ***
 
@@ -59,7 +59,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/cursved/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/cursved/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/cursved/solutions).
 
 ***
 
@@ -76,7 +76,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/primes/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/primes/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/primes/solutions).
 
 ***
 
@@ -93,7 +93,7 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mhk2/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/mhk2/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mhk2/solutions).
 
 ***
 
@@ -110,4 +110,4 @@ See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/zip/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/zip/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/zip/solutions).
